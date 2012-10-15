@@ -1,0 +1,10 @@
+Package: com.bensge.statusram
+Name: StatusRam
+Depends: mobilesubstrate
+Version: 0.0.1-14
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: bensge
+Author: bensge
+Section: Tweaks
+Installed-Size: 16
